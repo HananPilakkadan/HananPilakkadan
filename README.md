@@ -1,4 +1,4 @@
-Hi 👋 I'm Hanan
+Hi I'm Hanan
 ======================
 
 Front-End-Developer
