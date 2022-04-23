@@ -6,10 +6,10 @@ Front-End-Developer
 
 Hello! I'm Hanan Pilakkadan.I'm a Front-End Developer. I have experience on such as HTML5, CSS3, JS, REACT Responsive design and different kinds of framework.Currently I'm doing my Bachelor's degree in Computer Application
 
- I'm based in Malappuram
- See my portfolio at [My Profile](http://hananpilakkadan.github.io/me/)
- You can contact me at [hananpilakkadan@gmail.com](mailto:hananpilakkadan@gmail.com)
- I'm learning Node JS
+ * I'm based in Malappuram
+ * See my portfolio at [My Profile](http://hananpilakkadan.github.io/me/)
+ * You can contact me at [hananpilakkadan@gmail.com](mailto:hananpilakkadan@gmail.com)
+ * I'm learning Node JS
 
 ### Skills
 
