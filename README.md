@@ -7,7 +7,9 @@ Full Stack Developer
 I'm Hanan P, A passionate Full Stack Developer. with hands-on experience developing scalable websites/applications using a wide range of front-end and back-end technologies skills like HTML, CSS, JavaScript, React JS, Python etc. And also different kinds of frameworks. Currently, I'm doing my Bachelor's Degree in Computer Application from Jamia Nadwiyya Arts and Science College, Edavanna, Malappuram.
 
 *   🌍  I'm based in Kerala, India
-*   ✉️  You can contact me at [hananpilakkadan@gmail.com](mailto:hananpilakkadan@gmail.com)### Skills 
+*   ✉️  You can contact me at [hananpilakkadan@gmail.com](mailto:hananpilakkadan@gmail.com)
+
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -25,10 +27,10 @@ I'm Hanan P, A passionate Full Stack Developer. with hands-on experience develop
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://www.github.com/HananPilakkadan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
