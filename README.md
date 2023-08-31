@@ -1,10 +1,10 @@
 Hi I'm  Hanan P
 ========================
 
-Full Stack Developer
+Software Developer
 --------------------
 
-I'm Hanan P, A passionate Full Stack Developer. with hands-on experience developing scalable websites/applications using a wide range of front-end and back-end technologies skills like HTML, CSS, JavaScript, React JS, Python etc. And also different kinds of frameworks. Currently, I'm doing my Bachelor's Degree in Computer Application from Jamia Nadwiyya Arts and Science College, Edavanna, Malappuram.
+I'm Hanan P, A passionate Software Developer. with hands-on experience developing scalable websites/applications using a wide range of front-end and back-end technologies skills like HTML, CSS, JavaScript, React JS, Python etc. And also different kinds of frameworks. Currently, I'm doing my Bachelor's Degree in Computer Application from Jamia Nadwiyya Arts and Science College, Edavanna, Malappuram.
 
 *   🌍  I'm based in Kerala, India
 *   ✉️  You can contact me at [hananpilakkadan@gmail.com](mailto:hananpilakkadan@gmail.com)
